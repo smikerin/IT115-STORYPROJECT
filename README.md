@@ -2,19 +2,19 @@
 
 ## TEAM MEMBER BRANCH 
 
-SERGEI- TEAM LEAD 
+1.SERGEI- TEAM LEAD 
 
-1. keisewarsame
+2. keisewarsame
 
-2. chanelbumatay
+3. chanelbumatay
 
-3. rachelpurganan
+4. rachelpurganan
 
-4. koko-santi
+5. koko-santi
 
-5. rachelboursia
+6. rachelboursia
 
-6. medhanye-15
+7. medhanye-15
 
-7. firew1211
+8. firew1211
 
